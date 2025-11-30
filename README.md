@@ -6,3 +6,4 @@
 - **[2015-2019]** `v1.0: Creative Base`
     - **2011:** ⚙️ Engenharia Mecânica @ UFAM
     - **2014:** 🎨 Design Digital & Jogos @ FUCAPI
+    - **2015:**  Apple Academy Alumnus (iOS)
