@@ -7,3 +7,4 @@
     - **2011:** ⚙️ Engenharia Mecânica @ UFAM
     - **2014:** 🎨 Design Digital & Jogos @ FUCAPI
     - **2015:**  Apple Academy Alumnus (iOS)
+    - **2016:** 🎓 Bacharel Design Digital & Jogos
